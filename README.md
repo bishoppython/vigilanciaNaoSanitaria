@@ -28,3 +28,4 @@ https://www.youtube.com/watch?v=r0RspiLG260
 https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
 
 
+# vigilanciaNaoSanitaria
